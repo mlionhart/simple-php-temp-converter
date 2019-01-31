@@ -1,8 +1,5 @@
 # Lab No. 6 - Temperature Converter
 
-
-![Screen Layout](https://s3.amazonaws.com/ctec-assets/lab6_screen.png)
-
 This lab will have you clone this repository down to your computer. Once you have cloned the repo, you are to follow the instructions below.
 
 ## Repo Contents
@@ -18,7 +15,15 @@ This repository contains the following files:
 
 1. By now you have already cloned this repository (repo), placed it somewhere in your XAMPP htdocs folder and opened it up in **Visual Studio Code**.
 2. Open up **lab6.php** and review the HTML code in it.
-   
+3. The instructor has provided you with the HTML code for the form to help get you started.
+4. Below you can see an image of what the page looks like.
+5. Your assignment is to develop PHP code to process the submission of the form and it's values and perform and display the converted temperature.
+6. Use all of the skills you have learned during the first 4 weeks of this class.   
+7. I have also provided some PHP code in the file to help get you started
+8. I also made one of the fields sticky to also help you.
+9. Refer to Canvas for how to make selects sticky. There's sample code and a video.
+
+![Screen Layout](https://s3.amazonaws.com/ctec-assets/lab6_screen.png)
 
 ## Staging Your Changes
 
@@ -39,4 +44,3 @@ This repository contains the following files:
 15. You will then be brought to your repository. Click one on the lab5.php file to see if your code is there.
 16. Please ask for help if you run into any problems or have any questions.
 17. There is nothing you need to submit on Canvas. The instructor will use your GitHub repo as your submission for this lab.
-
