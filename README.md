@@ -1,7 +1,7 @@
 # Lab No. 6 - Temperature Converter
 
 
-[Screen Layout](https://s3.amazonaws.com/ctec-assets/lab6_screen.png)
+![Screen Layout](https://s3.amazonaws.com/ctec-assets/lab6_screen.png)
 
 This lab will have you clone this repository down to your computer. Once you have cloned the repo, you are to follow the instructions below.
 
