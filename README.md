@@ -22,6 +22,7 @@ This repository contains the following files:
 7. I have also provided some PHP code in the file to help get you started
 8. I also made one of the fields sticky to also help you.
 9. Refer to Canvas for how to make selects sticky. There's sample code and a video.
+10. Your HTML/CSS should validate
 
 ![Screen Layout](https://s3.amazonaws.com/ctec-assets/lab6_screen.png)
 
