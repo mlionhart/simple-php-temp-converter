@@ -12,6 +12,10 @@
 <body>
 
 <?php
+$convertedTemp = '';
+$originalTemperature = '';
+$originalUnit = '';
+$conversionUnit = '';
 // function to calculate converted temperature
 function convertTemp($temp, $unit1, $unit2)
 {
